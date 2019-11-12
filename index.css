@@ -183,3 +183,7 @@ table td:nth-child(6) {
     transform: scale(1) translate(10px, -30px);
   }
 }
+.third-page {
+  display: block;
+  
+}
