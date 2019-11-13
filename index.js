@@ -8,5 +8,6 @@ document.querySelector(".btn-click").addEventListener("click", () => {
 });
 
 setTimeout(() => {
-  document.getElementById("audio-id").play();
+  x = document.getElementById("audio-id");
+  x.play();
 }, 3000);
